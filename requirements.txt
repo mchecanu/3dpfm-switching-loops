@@ -1,0 +1,10 @@
+numpy
+scipy
+matplotlib
+h5py
+sidpy
+pyNSID
+scikit-image
+joblib
+pywin32
+progressbar2
